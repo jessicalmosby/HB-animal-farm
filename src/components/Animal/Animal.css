@@ -10,6 +10,8 @@
   align-items: center;
   justify-content: center;
   text-align: center;
+  top: 200px;
+  left: 50%;
 }
 
 .animal img {
